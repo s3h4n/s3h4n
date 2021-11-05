@@ -5,10 +5,6 @@
 
 ### <div align="center">I'm Shehan, 👨‍💻 Interested in coding things based on my interest. 🐱‍💻 </div>  
   
-
-- 🔭 I’m currently working on [SLD3V](https://github.com/sld3v)  
-  
-
 - 🌱 I’m currently learning Python  
   
 
@@ -23,7 +19,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/sh3h4n" target="_blank">
+<a href="https://github.com/s3h4n" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
