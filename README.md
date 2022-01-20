@@ -3,17 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Shehan, 👨‍💻 Interested in coding things based on my interest. 🐱‍💻 </div>  
+### <div align="center">I'm Sehan 🐱‍💻 </div>  
   
-- 🌱 I’m currently learning Python  
-  
-
-- 🦁 I’m from Sri Lanka  
-  
-
-- ⚡ Fun fact - I'm fairly good at digital art   
-  
-
 <br/>  
 
 
