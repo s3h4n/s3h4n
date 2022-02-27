@@ -7,14 +7,14 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3h4n&layout=compact&hide_border=true)" align="center" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=s3h4n&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div> 
 
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s3h4n&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3h4n&layout=compact&hide_border=true)" align="center" />
+</div>
 
 <hr/>
 
