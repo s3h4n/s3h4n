@@ -1,10 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="s3h4n (1).gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center"><code>I'M S3H4N 🐱‍💻</code></div>  
-  
 <br/>  
 
 
